@@ -1,0 +1,31 @@
+body {
+    font-family: Roboto;
+    background-color: #292929;
+    color: white;
+}
+
+button {
+    border: none; 
+    height: 60px; 
+    width: 125px; 
+    color: white; 
+    background-color: #643296;
+    border-radius: 5px;
+    font-family: Roboto;
+}
+
+button:hover {
+    background-color: #5b3d79;
+    color: rgb(169, 177, 173);
+}
+
+
+a {
+    color: royalblue;
+    font-family: Roboto;
+}
+
+.dcp {
+    color: #292929;
+    font-family: Roboto;
+}
