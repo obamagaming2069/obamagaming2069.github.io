@@ -1,7 +1,7 @@
 body {
-    font-family: Roboto;
-    background-color: #292929;
-    color: white;
+    font-family: Inter;
+    background-color: #1b1717;
+    color: #eeebdd;
 }
 
 button {
@@ -9,23 +9,16 @@ button {
     height: 60px; 
     width: 125px; 
     color: white; 
-    background-color: #643296;
+    background-color: #ce1212;
     border-radius: 5px;
-    font-family: Roboto;
+    font-family: Inter;
 }
 
 button:hover {
-    background-color: #5b3d79;
-    color: rgb(169, 177, 173);
+    background-color: #bb1212;
 }
-
 
 a {
-    color: royalblue;
-    font-family: Roboto;
-}
-
-.dcp {
-    color: #292929;
-    font-family: Roboto;
+    color: #810000;
+    font-family: Inter;
 }

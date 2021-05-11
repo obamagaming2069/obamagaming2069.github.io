@@ -1,10 +1,10 @@
 body {
-    font-family: Roboto;
-    background-color: #292929;
-    color: white;
+    font-family: Inter;
+    background-color: #424642;
+    color: #f3f4ed;
 }
 
 a {
-    color: lightskyblue;
-    font-family: Roboto;
+    color: #c06014;
+    font-family: Inter;
 }
